@@ -1,0 +1,37 @@
+// https://eslint.org/docs/user-guide/configuring
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jest": true,
+    "worker": true
+  },
+  "extends": [
+    "airbnb-typescript",
+    "plugin:jest-dom/recommended",
+    "plugin:testing-library/react",
+    "plugin:testing-library/recommended",
+    "react-app"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "plugins": [
+    "@typescript-eslint",
+    "jest-dom",
+    "react",
+    "react-hooks",
+    "testing-library"
+  ],
+  "rules": {
+    "arrow-body-style": "warn",
+    "no-unused-vars": "warn",
+    "padded-blocks": "warn",
+    "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
+    "react/jsx-one-expression-per-line": "off",
+    "react/prefer-stateless-function": "warn",
+    "@typescript-eslint/semi": "off",
+    "testing-library/prefer-wait-for": "warn"
+  }
+}

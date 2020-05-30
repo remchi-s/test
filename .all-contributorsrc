@@ -1,0 +1,15 @@
+{
+  "projectName": "test",
+  "projectOwner": "remchi-s",
+  "repoType": "github",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributorsPerLine": 7,
+  "skipCi": false,
+  "contributors": [
+  ],
+  "repoHost": "https://github.com"
+}
