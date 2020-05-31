@@ -10,6 +10,16 @@
   "contributorsPerLine": 7,
   "skipCi": false,
   "contributors": [
+    {
+      "login": "remchi-s",
+      "name": "Dmitriy Revutskiy",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/28806613?v=4",
+      "profile": "https://github.com/remchi-s",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    }
   ],
   "repoHost": "https://github.com"
 }
