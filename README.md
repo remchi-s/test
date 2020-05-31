@@ -75,6 +75,16 @@ References:
 Thanks goes to these people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/remchi-s"><img src="https://avatars2.githubusercontent.com/u/28806613?v=4" width="100px;" alt=""/><br /><sub><b>Dmitriy Revutskiy</b></sub></a><br /><a href="https://github.com/remchi-s/test/commits?author=remchi-s" title="Code">💻</a> <a href="https://github.com/remchi-s/test/commits?author=remchi-s" title="Tests">⚠️</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors][all-contributors] specification.
